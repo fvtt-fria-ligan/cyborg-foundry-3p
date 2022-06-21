@@ -1,0 +1,82 @@
+{
+  "name": "cy_borg-3p",
+  "title": "CY_BORG Third-Party Content",
+  "description": "",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "author": "mcglintlock",
+  "dependencies": [
+    {
+      "name": "cy_borg",
+      "type": "system"
+    }
+  ],
+  "esmodules": [],
+  "packs": [
+    {
+      "name": "class-dolph-apex",
+      "label": "Class - Dolph Apex",
+      "system": "cy_borg",
+      "path": "./packs/class-dolph-apex.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "class-dolph-data-diver",
+      "label": "Class - Dolph Data-Diver",
+      "system": "cy_borg",
+      "path": "./packs/class-dolph-data-diver.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "class-dolph-echo-jammer",
+      "label": "Class - Dolph Echo Jammer",
+      "system": "cy_borg",
+      "path": "./packs/class-dolph-echo-jammer.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "class-dolph-encante",
+      "label": "Class - Dolph Encante",
+      "system": "cy_borg",
+      "path": "./packs/class-dolph-encante.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "class-dolph-spearfish",
+      "label": "Class - Dolph Spearfish",
+      "system": "cy_borg",
+      "path": "./packs/class-dolph-spearfish.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "class-dolph-zspacer",
+      "label": "Class - Dolph Zspacer",
+      "system": "cy_borg",
+      "path": "./packs/class-dolph-zspacer.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "impudent-dolph",
+      "label": "Impudent Dolph",
+      "system": "cy_borg",
+      "path": "./packs/impudent-dolph.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "rolls-impudent-dolph",
+      "label": "Rolls - Impudent Dolph",
+      "system": "cy_borg",
+      "path": "./packs/rolls-impudent-dolph.db",
+      "entity": "RollTable"
+    }
+  ],
+  "scripts": [],
+  "styles": [],
+  "languages": [],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}

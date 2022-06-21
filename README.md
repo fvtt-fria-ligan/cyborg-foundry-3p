@@ -7,3 +7,8 @@ and is not affiliated with Stockholm Kartell. It is published under the CY_BORG 
 https://morkborg.com/cb-license/
 
 CY_BORG IS ©2022 STOCKHOLM KARTELL.
+
+
+# Content Credits
+
+  * [Impudent Dolph](https://flintwyrm.itch.io/impudent-dolph) by Wayward Polyhedral and Flintwyrm.

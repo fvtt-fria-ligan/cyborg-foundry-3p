@@ -1,3 +1,7 @@
+# 0.2.0
+
+- Add lo-fi pixel portraits.
+
 # 0.1.1
 
 - Various DOLPH class fixes.

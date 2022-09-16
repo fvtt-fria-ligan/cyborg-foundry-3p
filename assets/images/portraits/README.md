@@ -230,4 +230,21 @@ cy_portrait_41.png
 cy_portrait_42.png
 </td>
 
+<td valign="bottom">
+<img src="./cy_portrait_43.png" width="200"><br>
+cy_portrait_43.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_44.png" width="200"><br>
+cy_portrait_44.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./cy_portrait_45.png" width="200"><br>
+cy_portrait_45.png
+</td>
+
 </tr></table>

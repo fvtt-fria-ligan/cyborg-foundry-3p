@@ -191,9 +191,4 @@ cy_portrait_34.png
 cy_portrait_35.png
 </td>
 
-<td valign="bottom">
-<img src="./gallery-maker.js" width="200"><br>
-gallery-maker.js
-</td>
-
 </tr></table>

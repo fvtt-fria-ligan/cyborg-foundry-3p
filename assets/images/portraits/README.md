@@ -253,7 +253,7 @@ cy_portrait_46.png
 </td>
 
 <td valign="bottom">
-<img src="./7.png" width="200"><br>
+<img src="./cy_portrait_47.png" width="200"><br>
 cy_portrait_47.png
 </td>
 

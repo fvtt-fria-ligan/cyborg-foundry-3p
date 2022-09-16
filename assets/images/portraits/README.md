@@ -247,4 +247,14 @@ cy_portrait_44.png
 cy_portrait_45.png
 </td>
 
+<td valign="bottom">
+<img src="./cy_portrait_46.png" width="200"><br>
+cy_portrait_46.png
+</td>
+
+<td valign="bottom">
+<img src="./7.png" width="200"><br>
+cy_portrait_47.png
+</td>
+
 </tr></table>

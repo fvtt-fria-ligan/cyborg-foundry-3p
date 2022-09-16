@@ -257,4 +257,26 @@ cy_portrait_46.png
 cy_portrait_47.png
 </td>
 
+<td valign="bottom">
+<img src="./cy_portrait_48.png" width="200"><br>
+cy_portrait_48.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./cy_portrait_49.png" width="200"><br>
+cy_portrait_49.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_50.png" width="200"><br>
+cy_portrait_50.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_51.png" width="200"><br>
+cy_portrait_51.png
+</td>
+
 </tr></table>

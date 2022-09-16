@@ -191,4 +191,14 @@ cy_portrait_34.png
 cy_portrait_35.png
 </td>
 
+<td valign="bottom">
+<img src="./cy_portrait_35.png" width="200"><br>
+cy_portrait_36.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_35.png" width="200"><br>
+cy_portrait_37.png
+</td>
+
 </tr></table>

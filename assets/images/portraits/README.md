@@ -335,4 +335,36 @@ cy_portrait_60.png
 cy_portrait_61.png
 </td>
 
+<td valign="bottom">
+<img src="./cy_portrait_62.png" width="200"><br>
+cy_portrait_62.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_63.png" width="200"><br>
+cy_portrait_63.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_64.png" width="200"><br>
+cy_portrait_64.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./cy_portrait_65.png" width="200"><br>
+cy_portrait_65.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_66.png" width="200"><br>
+cy_portrait_66.png
+</td>
+
+<td valign="bottom">
+<img src="./cy_portrait_67.png" width="200"><br>
+cy_portrait_67.png
+</td>
+
 </tr></table>

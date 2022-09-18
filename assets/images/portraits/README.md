@@ -271,19 +271,28 @@ punk_48.png
 punk_49.png
 </td>
 
+</tr>
+</table>
+
+## Corpos
+
+<table>
+<tr>
 <td valign="bottom">
-<img src="./punks/punk_50.png" width="200"><br>
-punk_50.png
+<img src="./corpos/corpo_01.png" width="200"><br>
+corpo_01.png
 </td>
 
-<td valign="bottom">
-<img src="./punks/punk_51.png" width="200"><br>
-punk_51.png
-</td>
+</tr>
+</table>
 
+## Secops
+
+<table>
+<tr>
 <td valign="bottom">
-<img src="./punks/punk_52.png" width="200"><br>
-punk_52.png
+<img src="./secops/secops_01.png" width="200"><br>
+secops_01.png
 </td>
 
 </tr>

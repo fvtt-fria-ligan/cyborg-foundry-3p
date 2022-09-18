@@ -265,13 +265,6 @@ punk_48.png
 </td>
 
 </tr>
-<tr>
-<td valign="bottom">
-<img src="./punks/punk_49.png" width="200"><br>
-punk_49.png
-</td>
-
-</tr>
 </table>
 
 ## Corpos
@@ -349,6 +342,11 @@ corpo_13.png
 <td valign="bottom">
 <img src="./corpos/corpo_14.png" width="200"><br>
 corpo_14.png
+</td>
+
+<td valign="bottom">
+<img src="./corpos/corpo_15.png" width="200"><br>
+corpo_15.png
 </td>
 
 </tr>

@@ -1,3 +1,7 @@
+# 1.0.0
+
+- Foundry v10 compatibility.
+
 # 0.2.0
 
 - Add lo-fi pixel portraits.

@@ -1,20 +1,29 @@
 {
-  "name": "cy_borg-3p",
+  "id": "cy_borg-3p",
   "title": "CY_BORG Third-Party Content",
-  "description": "",
+  "description": "Third-party content for the CY_BORG system.",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
-  "author": "mcglintlock",
-  "dependencies": [
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10
+  },  
+  "authors": [
     {
-      "name": "cy_borg",
-      "type": "system"
-    }
-  ],
-  "esmodules": [],
+      "name": "mcglintlock"
+    }    
+  ],  
+  "relationships": {
+    "systems": [{
+      "id": "cy_borg",
+      "type": "system",
+      "manifest": "https://github.com/fvtt-fria-ligan/cy_borg-foundry-vtt/releases/download/1.0.8/system.json",
+      "compatibility": {
+        "verified": "10"
+      }
+    }],
+  },  
   "packs": [
     {
       "name": "class-dolph-apex",
@@ -73,9 +82,6 @@
       "entity": "RollTable"
     }
   ],
-  "scripts": [],
-  "styles": [],
-  "languages": [],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced"

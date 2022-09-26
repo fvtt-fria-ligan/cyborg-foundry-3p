@@ -30,56 +30,56 @@
       "label": "Class - Dolph Apex",
       "system": "cy_borg",
       "path": "./packs/class-dolph-apex.db",
-      "entity": "Item"
+      "type": "Item"
     },    
     {
       "name": "class-dolph-data-diver",
       "label": "Class - Dolph Data-Diver",
       "system": "cy_borg",
       "path": "./packs/class-dolph-data-diver.db",
-      "entity": "Item"
+      "type": "Item"
     },    
     {
       "name": "class-dolph-echo-jammer",
       "label": "Class - Dolph Echo Jammer",
       "system": "cy_borg",
       "path": "./packs/class-dolph-echo-jammer.db",
-      "entity": "Item"
+      "type": "Item"
     },    
     {
       "name": "class-dolph-encante",
       "label": "Class - Dolph Encante",
       "system": "cy_borg",
       "path": "./packs/class-dolph-encante.db",
-      "entity": "Item"
+      "type": "Item"
     },    
     {
       "name": "class-dolph-spearfish",
       "label": "Class - Dolph Spearfish",
       "system": "cy_borg",
       "path": "./packs/class-dolph-spearfish.db",
-      "entity": "Item"
+      "type": "Item"
     },    
     {
       "name": "class-dolph-zspacer",
       "label": "Class - Dolph Zspacer",
       "system": "cy_borg",
       "path": "./packs/class-dolph-zspacer.db",
-      "entity": "Item"
+      "type": "Item"
     },    
     {
       "name": "impudent-dolph",
       "label": "Impudent Dolph",
       "system": "cy_borg",
       "path": "./packs/impudent-dolph.db",
-      "entity": "Item"
+      "type": "Item"
     },    
     {
       "name": "rolls-impudent-dolph",
       "label": "Rolls - Impudent Dolph",
       "system": "cy_borg",
       "path": "./packs/rolls-impudent-dolph.db",
-      "entity": "RollTable"
+      "type": "RollTable"
     }
   ],
   "url": "This is auto replaced",

@@ -20,7 +20,7 @@
       "type": "system",
       "manifest": "https://github.com/fvtt-fria-ligan/cy_borg-foundry-vtt/releases/download/1.0.8/system.json",
       "compatibility": {
-        "verified": "10"
+        "verified": "1"
       }
     }]
   },  

@@ -1,3 +1,7 @@
+# 1.0.1
+
+- Add Full Auto by RollTheBones.
+
 # 1.0.0
 
 - Foundry v10 compatibility.

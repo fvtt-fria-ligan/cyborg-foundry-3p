@@ -68,6 +68,27 @@
       "type": "Item"
     },    
     {
+      "name": "full-auto-apps",
+      "label": "Full Auto - Apps",
+      "system": "cy_borg",
+      "path": "./packs/full-auto-apps.db",
+      "type": "Item"
+    },    
+    {
+      "name": "full-auto-jailbroken-joyrides",
+      "label": "Full Auto - Jailbroken Joyrides",
+      "system": "cy_borg",
+      "path": "./packs/full-auto-jailbroken-joyrides.db",
+      "type": "Actor"
+    },    
+    {
+      "name": "full-auto-tables",
+      "label": "Full Auto - Tables",
+      "system": "cy_borg",
+      "path": "./packs/full-auto-tables.db",
+      "type": "RollTable"
+    },    
+    {
       "name": "impudent-dolph",
       "label": "Impudent Dolph",
       "system": "cy_borg",

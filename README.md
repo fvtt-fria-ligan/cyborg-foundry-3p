@@ -11,5 +11,6 @@ CY_BORG IS ©2022 STOCKHOLM KARTELL.
 
 # Content Credits
 
+  * [Elite Apps](https://hasturudjat.itch.io/apps-4-ellite) by [HasturUdjat](https://hasturudjat.itch.io/).
   * [Full Auto](https://rollthebones.itch.io/full-auto) by [RollTheBones](https://rollthebones.itch.io/).
   * [Impudent Dolph](https://flintwyrm.itch.io/impudent-dolph) by Wayward Polyhedral and Flintwyrm.

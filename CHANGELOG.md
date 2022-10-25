@@ -1,5 +1,6 @@
 # 1.0.1
 
+- Add Elite Apps by HasturUdjat.
 - Add Full Auto by RollTheBones.
 
 # 1.0.0

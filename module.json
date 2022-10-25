@@ -68,6 +68,13 @@
       "type": "Item"
     },    
     {
+      "name": "elite-apps",
+      "label": "Elite Apps",
+      "system": "cy_borg",
+      "path": "./packs/elite-apps.db",
+      "type": "Item"
+    },    
+    {
       "name": "full-auto-apps",
       "label": "Full Auto - Apps",
       "system": "cy_borg",

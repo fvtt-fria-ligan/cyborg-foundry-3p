@@ -66,6 +66,13 @@
       "system": "cy_borg",
       "path": "./packs/class-dolph-zspacer.db",
       "type": "Item"
+    },
+    {
+      "name": "cyborg-3p",
+      "label": "CY_BORG 3P",
+      "system": "cy_borg",
+      "path": "./packs/cyborg-3p.db",
+      "type": "JournalEntry"
     },    
     {
       "name": "elite-apps",

@@ -1,5 +1,6 @@
 # 1.0.1
 
+- Add JournalEntry compendium with license and credits.
 - Add Elite Apps by HasturUdjat.
 - Add Full Auto by RollTheBones.
 

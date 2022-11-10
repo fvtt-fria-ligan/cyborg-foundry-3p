@@ -1,3 +1,7 @@
+# 1.2.0
+
+- Rename module id from cy_borg-3p to cy-borg-3p.
+
 # 1.1.0
 
 - Add cy-borg 3P JournalEntry compendium with license and credits.

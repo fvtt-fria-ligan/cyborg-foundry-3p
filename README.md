@@ -1,8 +1,8 @@
-# cy_borg-foundry-3p
+# cyborg-foundry-3p
 
 Third-party content for the CY_BORG system for Foundry VTT.
 
-cy_borg-foundry-3p is an independent production by community contributors,
+cyborg-foundry-3p is an independent production by community contributors,
 and is not affiliated with Stockholm Kartell. It is published under the CY_BORG Third Party License. 
 https://morkborg.com/cb-license/
 

@@ -1,5 +1,5 @@
 {
-  "id": "cy_borg-3p",
+  "id": "cy-borg-3p",
   "title": "CY_BORG Third-Party Content",
   "description": "Third-party content for the CY_BORG system.",
   "version": "This is auto replaced",
@@ -16,9 +16,9 @@
   ],  
   "relationships": {
     "systems": [{
-      "id": "cy_borg",
+      "id": "cy-borg",
       "type": "system",
-      "manifest": "https://github.com/fvtt-fria-ligan/cy_borg-foundry-vtt/releases/download/1.0.8/system.json",
+      "manifest": "https://github.com/fvtt-fria-ligan/cyborg-foundry-vtt/releases/download/1.0.8/system.json",
       "compatibility": {
         "verified": "1"
       }
@@ -28,91 +28,91 @@
     {
       "name": "class-dolph-apex",
       "label": "Class - Dolph Apex",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/class-dolph-apex.db",
       "type": "Item"
     },    
     {
       "name": "class-dolph-data-diver",
       "label": "Class - Dolph Data-Diver",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/class-dolph-data-diver.db",
       "type": "Item"
     },    
     {
       "name": "class-dolph-echo-jammer",
       "label": "Class - Dolph Echo Jammer",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/class-dolph-echo-jammer.db",
       "type": "Item"
     },    
     {
       "name": "class-dolph-encante",
       "label": "Class - Dolph Encante",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/class-dolph-encante.db",
       "type": "Item"
     },    
     {
       "name": "class-dolph-spearfish",
       "label": "Class - Dolph Spearfish",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/class-dolph-spearfish.db",
       "type": "Item"
     },    
     {
       "name": "class-dolph-zspacer",
       "label": "Class - Dolph Zspacer",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/class-dolph-zspacer.db",
       "type": "Item"
     },
     {
       "name": "cyborg-3p",
-      "label": "CY_BORG 3P",
-      "system": "cy_borg",
+      "label": "cy-borg 3P",
+      "system": "cy-borg",
       "path": "./packs/cyborg-3p.db",
       "type": "JournalEntry"
     },    
     {
       "name": "elite-apps",
       "label": "Elite Apps",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/elite-apps.db",
       "type": "Item"
     },    
     {
       "name": "full-auto-apps",
       "label": "Full Auto - Apps",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/full-auto-apps.db",
       "type": "Item"
     },    
     {
       "name": "full-auto-jailbroken-joyrides",
       "label": "Full Auto - Jailbroken Joyrides",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/full-auto-jailbroken-joyrides.db",
       "type": "Actor"
     },    
     {
       "name": "full-auto-tables",
       "label": "Full Auto - Tables",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/full-auto-tables.db",
       "type": "RollTable"
     },    
     {
       "name": "impudent-dolph",
       "label": "Impudent Dolph",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/impudent-dolph.db",
       "type": "Item"
     },    
     {
       "name": "rolls-impudent-dolph",
       "label": "Rolls - Impudent Dolph",
-      "system": "cy_borg",
+      "system": "cy-borg",
       "path": "./packs/rolls-impudent-dolph.db",
       "type": "RollTable"
     }

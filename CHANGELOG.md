@@ -1,6 +1,6 @@
 # 1.1.0
 
-- Add CY_BORG 3P JournalEntry compendium with license and credits.
+- Add cy-borg 3P JournalEntry compendium with license and credits.
 - Add Elite Apps by HasturUdjat.
 - Add Full Auto by RollTheBones.
 

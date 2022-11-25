@@ -68,10 +68,10 @@
       "type": "Item"
     },
     {
-      "name": "cyborg-3p",
-      "label": "cy-borg 3P",
+      "name": "cyborg-3p-readme",
+      "label": "CY_BORG 3P",
       "system": "cy-borg",
-      "path": "./packs/cyborg-3p.db",
+      "path": "./packs/cyborg-3p-readme.db",
       "type": "JournalEntry"
     },    
     {

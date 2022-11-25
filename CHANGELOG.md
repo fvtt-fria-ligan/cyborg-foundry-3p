@@ -1,3 +1,7 @@
+# 1.2.1
+
+- Rename journal compendium.
+
 # 1.2.0
 
 - Rename module id from cy_borg-3p to cy-borg-3p.

@@ -1,6 +1,7 @@
 # 1.2.1
 
 - Rename journal compendium.
+- Set carry slots and quantity for all apps.
 
 # 1.2.0
 

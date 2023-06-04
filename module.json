@@ -24,96 +24,34 @@
       }
     }]
   },  
-  "packs": [
+  "esmodules": ["/scripts/module.js"],
+  "packs": [   
     {
-      "name": "class-dolph-apex",
-      "label": "Class - Dolph Apex",
+      "name": "cyborg-3p-actors",
+      "label": "CY_BORG 3P (Actors)",
       "system": "cy-borg",
-      "path": "./packs/class-dolph-apex.db",
-      "type": "Item"
-    },    
+      "path": "./packs/cyborg-3p-actors",
+      "type": "Actor"
+    },  
     {
-      "name": "class-dolph-data-diver",
-      "label": "Class - Dolph Data-Diver",
+      "name": "cyborg-3p-items",
+      "label": "CY_BORG 3P (Items)",
       "system": "cy-borg",
-      "path": "./packs/class-dolph-data-diver.db",
-      "type": "Item"
-    },    
-    {
-      "name": "class-dolph-echo-jammer",
-      "label": "Class - Dolph Echo Jammer",
-      "system": "cy-borg",
-      "path": "./packs/class-dolph-echo-jammer.db",
-      "type": "Item"
-    },    
-    {
-      "name": "class-dolph-encante",
-      "label": "Class - Dolph Encante",
-      "system": "cy-borg",
-      "path": "./packs/class-dolph-encante.db",
-      "type": "Item"
-    },    
-    {
-      "name": "class-dolph-spearfish",
-      "label": "Class - Dolph Spearfish",
-      "system": "cy-borg",
-      "path": "./packs/class-dolph-spearfish.db",
-      "type": "Item"
-    },    
-    {
-      "name": "class-dolph-zspacer",
-      "label": "Class - Dolph Zspacer",
-      "system": "cy-borg",
-      "path": "./packs/class-dolph-zspacer.db",
+      "path": "./packs/cyborg-3p-items",
       "type": "Item"
     },
     {
-      "name": "cyborg-3p-readme",
-      "label": "CY_BORG 3P",
+      "name": "cyborg-3p-journal",
+      "label": "CY_BORG 3P (Journal)",
       "system": "cy-borg",
-      "path": "./packs/cyborg-3p-readme.db",
+      "path": "./packs/cyborg-3p-journal",
       "type": "JournalEntry"
     },    
     {
-      "name": "elite-apps",
-      "label": "Elite Apps",
+      "name": "cyborg-3p-tables",
+      "label": "CY_BORG 3P (Tables)",
       "system": "cy-borg",
-      "path": "./packs/elite-apps.db",
-      "type": "Item"
-    },    
-    {
-      "name": "full-auto-apps",
-      "label": "Full Auto - Apps",
-      "system": "cy-borg",
-      "path": "./packs/full-auto-apps.db",
-      "type": "Item"
-    },    
-    {
-      "name": "full-auto-jailbroken-joyrides",
-      "label": "Full Auto - Jailbroken Joyrides",
-      "system": "cy-borg",
-      "path": "./packs/full-auto-jailbroken-joyrides.db",
-      "type": "Actor"
-    },    
-    {
-      "name": "full-auto-tables",
-      "label": "Full Auto - Tables",
-      "system": "cy-borg",
-      "path": "./packs/full-auto-tables.db",
-      "type": "RollTable"
-    },    
-    {
-      "name": "impudent-dolph",
-      "label": "Impudent Dolph",
-      "system": "cy-borg",
-      "path": "./packs/impudent-dolph.db",
-      "type": "Item"
-    },    
-    {
-      "name": "rolls-impudent-dolph",
-      "label": "Rolls - Impudent Dolph",
-      "system": "cy-borg",
-      "path": "./packs/rolls-impudent-dolph.db",
+      "path": "./packs/cyborg-3p-tables",
       "type": "RollTable"
     }
   ],

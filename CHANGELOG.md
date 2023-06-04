@@ -1,3 +1,8 @@
+# 2.0.0
+
+- v11 compatibility.
+- Reorganize compendiums using folders.
+
 # 1.2.1
 
 - Rename journal compendium.

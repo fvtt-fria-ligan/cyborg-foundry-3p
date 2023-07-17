@@ -24,7 +24,7 @@
       }
     }]
   },  
-  "esmodules": ["/scripts/module.js"],
+  "esmodules": ["./scripts/module.js"],
   "packs": [   
     {
       "name": "cyborg-3p-actors",

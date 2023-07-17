@@ -1,3 +1,7 @@
+# 2.0.1
+
+- Fix esmodules path. (by rklos)
+
 # 2.0.0
 
 - v11 compatibility.

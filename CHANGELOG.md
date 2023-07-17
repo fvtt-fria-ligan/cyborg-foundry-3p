@@ -1,3 +1,7 @@
+# 2.0.2
+
+- Add scripts dir to build zip.
+
 # 2.0.1
 
 - Fix esmodules path. (by rklos)

@@ -4,7 +4,6 @@
   "description": "Third-party content for the CY_BORG system.",
   "version": "This is auto replaced",
   "library": "false",
-  "manifestPlusVersion": "1.0.0",
   "compatibility": {
     "minimum": "11.300",
     "verified": "11.300"
